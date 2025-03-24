@@ -1,1 +1,0 @@
-// TokenomicsSection component
