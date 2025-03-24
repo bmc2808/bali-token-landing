@@ -1,6 +1,6 @@
 
 {
-  "name": "bali-token-landing",
+  "name": "bali-token-landing-inline-style",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
